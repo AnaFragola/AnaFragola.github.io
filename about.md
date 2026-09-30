@@ -53,5 +53,7 @@ permalink: /about/
 
 <div style="margin-top: 70px; padding-top: 20px; border-top: 1px solid #e3e6e8; text-align: center; color: #a0a6ab; font-size: 14px;">
   Fueled by good coffee and Atlas
-  <img src="/img/atlas.png" alt="Atlas" style="height: 44px; width: auto; vertical-align: middle; margin-left: 8px; background: none;">
+  <span style="display: inline-block; background: #000; border-radius: 8px; padding: 4px 8px; vertical-align: middle; margin-left: 8px;">
+    <img src="/img/atlas.png" alt="Atlas" style="height: 36px; width: auto; display: block;">
+  </span>
 </div>

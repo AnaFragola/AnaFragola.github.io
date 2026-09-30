@@ -4,6 +4,35 @@ title: About
 permalink: /about/
 ---
 
+<style>
+  .about-page p,
+  .about-page li {
+    font-size: 17px;
+    line-height: 1.7;
+  }
+  .about-page li {
+    margin-bottom: 6px;
+  }
+  .about-footer {
+    margin-top: 70px;
+    padding-top: 20px;
+    border-top: 1px solid #e3e6e8;
+    text-align: center;
+    color: #a0a6ab;
+    font-size: 14px;
+  }
+  .about-footer img {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    object-fit: cover;
+    vertical-align: middle;
+    margin-left: 8px;
+  }
+</style>
+
+<div class="about-page" markdown="1">
+
 # Ana Laura Jagode
 
 **Data & AI · AI Strategy · Digital Innovation**
@@ -46,3 +75,10 @@ I enjoy taking complex ideas, breaking them down, and connecting the dots to tur
 ## Beyond work
 
 I love books, travel, photography, and music.
+
+<div class="about-footer">
+  Fueled by good coffee and Atlas
+  <img src="/img/atlas.jpg" alt="Atlas">
+</div>
+
+</div>

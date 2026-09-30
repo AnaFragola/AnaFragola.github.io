@@ -11,6 +11,8 @@ permalink: /about/
 
 ---
 
+<img src="/img/Ana.png" alt="Ana Laura Jagode" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; display: block; margin: 10px 0 20px;">
+
 ## Hello
 
 <p style="font-size: 17px; line-height: 1.7;">I'm curious about what's next, especially where AI, technology, and strategy intersect.</p>

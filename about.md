@@ -51,7 +51,24 @@ permalink: /about/
 
 ## Beyond work
 
-<p style="font-size: 17px; line-height: 1.7;">I love books, travel, photography, and music.</p>
+<div style="display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; margin-bottom: 30px;">
+  <div style="background: #f1f3f5; border: 1px solid #d5dbe0; border-radius: 12px; padding: 18px 6px; text-align: center;">
+    <div style="font-size: 34px; line-height: 1.2;">📚</div>
+    <div style="font-size: 14px; margin-top: 8px;">Books</div>
+  </div>
+  <div style="background: #f1f3f5; border: 1px solid #d5dbe0; border-radius: 12px; padding: 18px 6px; text-align: center;">
+    <div style="font-size: 34px; line-height: 1.2;">✈️</div>
+    <div style="font-size: 14px; margin-top: 8px;">Travel</div>
+  </div>
+  <div style="background: #f1f3f5; border: 1px solid #d5dbe0; border-radius: 12px; padding: 18px 6px; text-align: center;">
+    <div style="font-size: 34px; line-height: 1.2;">📷</div>
+    <div style="font-size: 14px; margin-top: 8px;">Photography</div>
+  </div>
+  <div style="background: #f1f3f5; border: 1px solid #d5dbe0; border-radius: 12px; padding: 18px 6px; text-align: center;">
+    <div style="font-size: 34px; line-height: 1.2;">🎧</div>
+    <div style="font-size: 14px; margin-top: 8px;">Music</div>
+  </div>
+</div>
 
 <div style="margin-top: 70px; padding-top: 20px; border-top: 1px solid #e3e6e8; text-align: center; color: #a0a6ab; font-size: 14px;">
   Fueled by good coffee and Atlas

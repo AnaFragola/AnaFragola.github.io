@@ -19,6 +19,7 @@ description: "I'm an AI Strategy Advisor, exploring where AI, strategy, and huma
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://https://anafragola.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'AnaFragola'
+linkedin_username: 'ana-laura-jagode-031b46144'
 
 # Build settings
 markdown: kramdown

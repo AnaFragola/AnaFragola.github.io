@@ -4,35 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<style>
-  .about-page p,
-  .about-page li {
-    font-size: 17px;
-    line-height: 1.7;
-  }
-  .about-page li {
-    margin-bottom: 6px;
-  }
-  .about-footer {
-    margin-top: 70px;
-    padding-top: 20px;
-    border-top: 1px solid #e3e6e8;
-    text-align: center;
-    color: #a0a6ab;
-    font-size: 14px;
-  }
-  .about-footer img {
-    width: 44px;
-    height: 44px;
-    border-radius: 50%;
-    object-fit: cover;
-    vertical-align: middle;
-    margin-left: 8px;
-  }
-</style>
-
-<div class="about-page" markdown="1">
-
 # Ana Laura Jagode
 
 **Data & AI · AI Strategy · Digital Innovation**
@@ -42,9 +13,9 @@ permalink: /about/
 
 ## Hello
 
-I'm curious about what's next, especially where AI, technology, and strategy intersect.
+<p style="font-size: 17px; line-height: 1.7;">I'm curious about what's next, especially where AI, technology, and strategy intersect.</p>
 
-I enjoy taking complex ideas, breaking them down, and connecting the dots to turn emerging technology into something that actually creates value. For me, the interesting part isn't technology for technology's sake. It's understanding what it can enable, where it makes sense, and how to make it work in the real world.
+<p style="font-size: 17px; line-height: 1.7;">I enjoy taking complex ideas, breaking them down, and connecting the dots to turn emerging technology into something that actually creates value. For me, the interesting part isn't technology for technology's sake. It's understanding what it can enable, where it makes sense, and how to make it work in the real world.</p>
 
 ## Skills
 
@@ -62,23 +33,25 @@ I enjoy taking complex ideas, breaking them down, and connecting the dots to tur
 
 ## How I work
 
-- **Always learning.** I have a soft spot for new ideas, emerging technologies, and the occasional deep dive down a very specific nerdy rabbit hole.
-- **Better together.** Great solutions are rarely built in isolation. Different perspectives, creative thinking, and honest collaboration lead to better questions and better answers.
-- **From idea to use.** I like exploring what's possible, challenging what's already being done, and turning good ideas into things people can actually use.
+<ul style="font-size: 17px; line-height: 1.7;">
+  <li style="margin-bottom: 6px;"><strong>Always learning.</strong> I have a soft spot for new ideas, emerging technologies, and the occasional deep dive down a very specific nerdy rabbit hole.</li>
+  <li style="margin-bottom: 6px;"><strong>Better together.</strong> Great solutions are rarely built in isolation. Different perspectives, creative thinking, and honest collaboration lead to better questions and better answers.</li>
+  <li><strong>From idea to use.</strong> I like exploring what's possible, challenging what's already being done, and turning good ideas into things people can actually use.</li>
+</ul>
 
 ## What I'm exploring right now
 
-- AI and agentic systems
-- AI strategy and adoption
-- The evolving relationship between people and technology
+<ul style="font-size: 17px; line-height: 1.7;">
+  <li style="margin-bottom: 6px;">AI and agentic systems</li>
+  <li style="margin-bottom: 6px;">AI strategy and adoption</li>
+  <li>The evolving relationship between people and technology</li>
+</ul>
 
 ## Beyond work
 
-I love books, travel, photography, and music.
+<p style="font-size: 17px; line-height: 1.7;">I love books, travel, photography, and music.</p>
 
-<div class="about-footer">
+<div style="margin-top: 70px; padding-top: 20px; border-top: 1px solid #e3e6e8; text-align: center; color: #a0a6ab; font-size: 14px;">
   Fueled by good coffee and Atlas
-  <img src="/img/atlas.jpg" alt="Atlas">
-</div>
-
+  <img src="/img/atlas.png" alt="Atlas" style="height: 44px; width: auto; vertical-align: middle; margin-left: 8px;">
 </div>
